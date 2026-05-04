@@ -1,0 +1,120 @@
+{
+  "brand": {
+    "name": "YSL Beauty",
+    "variations": [
+      "입생로랑",
+      "생로랑",
+      "YSL",
+      "이브생로랑",
+      "입생로랑뷰티",
+      "생로랑뷰티",
+      "ysl beauty",
+      "ysl뷰티"
+    ],
+    "url": "yslbeauty"
+  },
+  "competitors": [
+    {
+      "name": "Dior",
+      "variations": [
+        "디올",
+        "Dior",
+        "디오르",
+        "미스디올",
+        "디올뷰티"
+      ],
+      "url": "dior"
+    },
+    {
+      "name": "Chanel",
+      "variations": [
+        "샤넬",
+        "Chanel",
+        "코코마드무아젤",
+        "샤넬뷰티"
+      ],
+      "url": "chanel"
+    },
+    {
+      "name": "Hera",
+      "variations": [
+        "헤라",
+        "Hera",
+        "HERA"
+      ],
+      "url": "hera"
+    },
+    {
+      "name": "MAC",
+      "variations": [
+        "맥",
+        "MAC",
+        "M.A.C"
+      ],
+      "url": "mac"
+    },
+    {
+      "name": "Jo Malone",
+      "variations": [
+        "조말론",
+        "Jo Malone",
+        "조말론런던"
+      ],
+      "url": "jomalone"
+    },
+    {
+      "name": "Nars",
+      "variations": [
+        "나스",
+        "NARS",
+        "Nars"
+      ],
+      "url": "nars"
+    },
+    {
+      "name": "Estee Lauder",
+      "variations": [
+        "에스티로더",
+        "에스티 로더",
+        "Estee Lauder",
+        "더블웨어"
+      ],
+      "url": "esteelauder"
+    },
+    {
+      "name": "Lancome",
+      "variations": [
+        "랑콤",
+        "Lancome",
+        "랑콤뷰티"
+      ],
+      "url": "lancome"
+    },
+    {
+      "name": "Tom Ford",
+      "variations": [
+        "톰포드",
+        "Tom Ford",
+        "톰 포드"
+      ],
+      "url": "tomford"
+    },
+    {
+      "name": "Sulwhasoo",
+      "variations": [
+        "설화수",
+        "Sulwhasoo"
+      ],
+      "url": "sulwhasoo"
+    },
+    {
+      "name": "Prada Beauty",
+      "variations": [
+        "프라다",
+        "Prada",
+        "프라다뷰티"
+      ],
+      "url": "prada"
+    }
+  ]
+}
